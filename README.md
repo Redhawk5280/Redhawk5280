@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Christopher Rush, I am currently a coding student at Tech Elevator learning C#.
+I have interests in robotics, video game development, and AI.
+Fun fact about me is that I was on a robotics team my senior year of high school for FIRST Robotics and helped design and create a 120lb robot!
+You can reach me at my email christopherrush5280@gmail.com
+
 <!--
 **Redhawk5280/Redhawk5280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
